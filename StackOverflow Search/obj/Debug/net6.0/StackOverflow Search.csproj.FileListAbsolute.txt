@@ -1,0 +1,29 @@
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\appsettings.Development.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\appsettings.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\StackOverflow Search.exe
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\StackOverflow Search.deps.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\StackOverflow Search.runtimeconfig.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\StackOverflow Search.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\StackOverflow Search.pdb
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Elasticsearch.Net.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Nest.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.csproj.AssemblyReference.cache
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.GeneratedMSBuildEditorConfig.editorconfig
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.AssemblyInfoInputs.cache
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.AssemblyInfo.cs
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.csproj.CoreCompileInputs.cache
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.MvcApplicationPartsAssemblyInfo.cs
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.MvcApplicationPartsAssemblyInfo.cache
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\staticwebassets.build.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\staticwebassets.development.json
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\scopedcss\bundle\StackOverflow Search.styles.css
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.csproj.CopyComplete
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\refint\StackOverflow Search.dll
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.pdb
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\StackOverflow Search.genruntimeconfig.cache
+F:\Behdad2\Software\ASP CORE\StackOverflow Search\StackOverflow Search\obj\Debug\net6.0\ref\StackOverflow Search.dll

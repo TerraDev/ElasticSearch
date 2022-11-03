@@ -1,0 +1,13 @@
+select distinct top 100 Posts.* from Posts where Posts.OwnerUserId in (
+(select t.a from(
+select Posts.OwnerUserId as a from (Posts join Users on Posts.OwnerUserId 
+= Users.Id) where Users.Reputation > 100000) 
+as t)
+Intersect
+(select k.b from(
+select Comments.UserId as b, Count(Comments.Id) as c
+from (Users join Comments on Comments.UserId = Users.Id)
+group by Comments.UserId having Count(Comments.Id) > 9000)
+as k
+))
+Order by Posts.Score desc
